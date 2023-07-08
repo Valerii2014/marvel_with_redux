@@ -5,4 +5,4 @@ Here, I used the React framework and the Redux state management system,
 as well as several additional libraries: React Router Dom, React Transition Group, 
 React Helmet, RTK Query, and Formik.
 
-
+Link to app https://roaring-strudel-29b8a3.netlify.app
